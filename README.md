@@ -1,3 +1,3 @@
 # Guessing Game - Nerea
-## martes, 19 de noviembre de 2019, 11:10:34 CET
-22
+## makefile was run on martes, 19 de noviembre de 2019, 11:20:19 CET
+There are 22 lines in guessinggame.sh
